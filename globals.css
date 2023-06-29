@@ -1,0 +1,23 @@
+/* General styles */
+body {
+  font-family: "ColfaxAI", Helvetica, sans-serif;
+  background-color: #f5f5f5; /* Background color of the page */
+  color: #353740; /* Text color for main content */
+}
+
+/* Partially opaque boxes */
+.overlay-box {
+  background-color: rgba(255, 255, 255, 0.8); /* White with 80% opacity */
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Box shadow for depth */
+}
+
+/* Text colors reminiscent of a sunset */
+h1, h2, h3, h4, h5, h6 {
+  color: #ff7f50; /* Coral */
+}
+
+p {
+  color: #202123; /* Dark gray */
+}

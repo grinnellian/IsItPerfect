@@ -1,0 +1,31 @@
+body {
+  background: url('public/background.jpg') no-repeat center center fixed;
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+h1 {
+  color: #FFA500; /* Orange */
+}
+
+p {
+  color: #FFD700; /* Gold */
+}
+
+a {
+  color: #FF6347; /* Tomato */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FF4500; /* Orange Red */
+}
